@@ -1,0 +1,33 @@
+name: 'kar-urb'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - autograd
+  - ipykernel
+  - ipywidgets
+  - jupyter-dash
+  - matplotlib
+  - nltk
+  - pandas
+  - panel
+  - pip
+  - plotly
+  - python
+  - pytorch
+  - scikit-learn
+  - seaborn
+  - sentence-transformers
+  - spacy
+  - torchaudio
+  - torchvision
+  - umap-learn
+  - wikipedia
+  - wordcloud
+  - yellowbrick
+  - gensim
+  - openpyxl
+  - scikit-surprise
+  - fancyimpute
+  - opencv
+  - cartopy
